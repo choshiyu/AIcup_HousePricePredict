@@ -4,6 +4,9 @@
 ##目標:
 透過影響房價高低的關鍵因素，包括坪數大小、屋齡屋況、地段環境及居住條件等，預測房價
 
+#評估方法:
+MAPE(Mean Absolute Percentage Error)
+
 ##程式碼說明:
 main:主程式，整個過程的基本邏輯
 data_preprocess:資料前處理，包含一些資料切割、transcoding、Normalization...等等
